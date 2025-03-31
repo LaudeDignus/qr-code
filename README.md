@@ -1,4 +1,9 @@
 # qr-code
+## 📷 **Project overview**
+
+![image](./preview.png)  
+
+🔗 **[Voir le projet en ligne](https://ton-url-deploy.com)**
 
 ## 📌 Project description
 
