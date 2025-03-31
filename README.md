@@ -3,7 +3,7 @@
 
 ![image](./preview.png)  
 
-🔗 **[Voir le projet en ligne](https://ton-url-deploy.com)**
+🔗 **[Voir le projet en ligne](https://miwodi-qr-code.netlify.app/)**
 
 ## 📌 Project description
 
