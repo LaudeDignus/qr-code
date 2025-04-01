@@ -31,10 +31,10 @@ body{
 }
 
 main{
-    max-width:370px;
+    max-width:300px;
     background:var(--white);
     border-radius: 15px;
-    padding:18px 15px;
+    padding:15px 0;
     margin:10px 0;
 }
 
@@ -47,18 +47,22 @@ main{
 }
 
 .card img{
-    width:100%;
-    border-radius: 12px;
+    width:90%;
+    border-radius: 15px;
 }
 
 .text{
-    line-height: 1.2;
+    line-height: 1.4;
+    font-size: 12px;
+    text-align:center;
+    width:210px;
 }
 
 .text h1 {
     color:var(--Slate-900);
     font-weight: 600;
-    margin:12px 0;
+    margin:15px 0 6px;
+    font-size: 18px;
 }
 
 .text p{
@@ -74,4 +78,10 @@ main{
 }
 .attribution a { 
     color: hsl(228, 45%, 44%);
+    text-decoration: none;
+}
+
+.attribution a:hover{
+    text-decoration:underline;
+    color: var(--Slate-900);
 }
